@@ -1,0 +1,42 @@
+Complete reading of all this topics
+
+What is Data ?
+1) https://www.mathsisfun.com/data/data.html
+2) https://www.mathsisfun.com/data/data-discrete-continuous.html
+3) https://www.mathsisfun.com/data/histograms.html
+4) https://www.mathsisfun.com/data/scatter-xy-plots.html
+5) https://www.mathsisfun.com/data/sampling.html
+
+Measures of Central Value
+6) https://www.mathsisfun.com/data/central-measures.html
+7) https://www.mathsisfun.com/mean.html
+8) https://www.mathsisfun.com/median.html
+9) https://www.mathsisfun.com/mode.html
+
+Measures of Spread
+10) https://www.mathsisfun.com/data/range.html
+11) https://www.mathsisfun.com/data/quartiles.html
+12) https://www.mathsisfun.com/data/standard-deviation.html
+
+Comparing Data
+13) https://www.mathsisfun.com/data/univariate-bivariate.html
+14) https://www.mathsisfun.com/data/scatter-xy-plots.html
+15) https://www.mathsisfun.com/data/outliers.html
+16) https://www.mathsisfun.com/data/correlation.html
+
+Probability
+17) https://www.mathsisfun.com/data/probability.html
+18) https://www.mathsisfun.com/probability_line.html
+
+Random Variables
+19) https://www.mathsisfun.com/data/random-variables.html
+20) https://www.mathsisfun.com/data/random-variables-continuous.html
+21) https://www.mathsisfun.com/data/random-variables-mean-variance.html
+
+The Binomial Distribution
+22) https://www.mathsisfun.com/data/binomial-distribution.html
+
+The Normal Distribution
+23) https://www.mathsisfun.com/data/standard-normal-distribution.html
+24) https://www.mathsisfun.com/data/standard-normal-distribution-table.html
+25) https://www.mathsisfun.com/data/skewness.html
